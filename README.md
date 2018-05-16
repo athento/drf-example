@@ -31,3 +31,11 @@ Or, if you can figure it out for yourself, follow the steps below !
     - [/api/docs](http://localhost:8000/api/docs/)
 8. Read the wiki:
     - [drf-example wiki](https://github.com/athento/drf-example/wiki)
+
+## Images
+
+![api](https://raw.githubusercontent.com/athento/drf-example/master/img/api.png)
+
+![method](https://raw.githubusercontent.com/athento/drf-example/master/img/method.png)
+
+![docs](https://raw.githubusercontent.com/athento/drf-example/master/img/docs.png)
