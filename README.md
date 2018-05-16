@@ -1,4 +1,4 @@
-# drf-example
+# Django REST Framework Example
 
 This project is intended to showcase the capabilities of the Django REST Framework with a minimal amount of code.
 
