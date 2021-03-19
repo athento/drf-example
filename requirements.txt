@@ -7,7 +7,7 @@ Django==1.11.13
 django-crispy-forms==1.7.2
 django-filter==1.1.0
 django-rest-swagger==2.1.2
-djangorestframework==3.8.2
+djangorestframework==3.11.2
 drf-openapi==1.3.0
 idna==2.6
 itypes==1.1.0
